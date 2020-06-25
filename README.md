@@ -1,7 +1,7 @@
-1. clone Repo
+<b>1. Clone Repo</b>
 
-2. in the project location use command line.
+<b>2. In the project location use command line.</b>
  <br>$ npm install
 
-3. run project
+<b>3. Run Project</b>
  <br>$ npm start
